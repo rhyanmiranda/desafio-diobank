@@ -1,0 +1,23 @@
+{
+  "devDependencies": {
+    "@types/node": "^20.11.19",
+    "tsx": "^4.7.1",
+    "typescript": "^5.3.3"
+  },
+  "name": "fundamentos",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "esbuild": "^0.19.12",
+    "get-tsconfig": "^4.7.2",
+    "resolve-pkg-maps": "^1.0.0",
+    "undici-types": "^5.26.5"
+  },
+  "scripts": {
+    "dev": "tsx watch app.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
